@@ -102,10 +102,3 @@ Running the test:
 Code coverage:
 
 `npm run coverage`
-
-## Credits
-
-Borrows heavily from [Minimize](https://github.com/Swaagie/minimize),
-especially the constructor, `parse`, `amperizer`, and `traverse` functions in
-the `Amperize` object, and the unit tests. Copyright (c) 2013 Moveo - Martijn
-Swaagman. Used under the MIT License (see `LICENSE`).
