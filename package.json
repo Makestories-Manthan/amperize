@@ -15,18 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jbhannah/amperize.git"
+    "url": "https://github.com/Makestories-Manthan/amperize.git"
   },
   "keywords": [
     "amp",
     "html"
   ],
-  "author": "Jesse B. Hannah <jesse@jbhannah.net>",
+  "author": "Manthan Mehta <manthan.mehta@techno-soft.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jbhannah/amperize/issues"
+    "url": "https://github.com/Makestories-Manthan/amperize/issues"
   },
-  "homepage": "https://github.com/jbhannah/amperize#readme",
+  "homepage": "https://github.com/Makestories-Manthan/amperize#readme",
   "dependencies": {
     "async": "^3.0.1",
     "domutils": "^2.0.0",
